@@ -17,7 +17,7 @@ const name = 'App'
 </script>
 
 <style>
-/* Your CSS here */
+/* Your CSS here - Change*/
 </style>
 
 <style>
