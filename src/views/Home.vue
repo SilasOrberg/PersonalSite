@@ -3,7 +3,7 @@
     <div class="description">
       <h1>Welcome to My Website</h1>
       <p>
-        I smooth ladies am a programmer, passionate about coding. I have experience in various programming languages and frameworks. 
+        I am a programmer, passionate about coding. I have experience in various programming languages and frameworks. And yeah...
         This website is a demonstration of my skills and a platform to share my thoughts and ideas.
       </p>
     </div>
